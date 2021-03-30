@@ -6,7 +6,7 @@
   <link href="https://www.mardan.wiki/atom.xml" rel="self"/>
   
   <link href="https://www.mardan.wiki/"/>
-  <updated>2021-03-30T17:03:31.648Z</updated>
+  <updated>2021-03-30T17:14:29.150Z</updated>
   <id>https://www.mardan.wiki/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Wispeeer User Guide</title>
-    <link href="https://www.mardan.wiki/website/2021/03/31/Wispeeer_User_Guide/"/>
-    <id>https://www.mardan.wiki/website/2021/03/31/Wispeeer_User_Guide/</id>
-    <published>2021-03-30T17:03:31.648Z</published>
-    <updated>2021-03-30T17:03:31.648Z</updated>
+    <link href="https://www.mardan.wiki/website/2021/03/29/Wispeeer_User_Guide/"/>
+    <id>https://www.mardan.wiki/website/2021/03/29/Wispeeer_User_Guide/</id>
+    <published>2021-03-28T19:20:37.000Z</published>
+    <updated>2021-03-30T17:14:29.150Z</updated>
     
     <content type="html"><![CDATA[<p>Usage: wispeeer -[gpdhv] [-i &lt;alias&gt;] [-n &lt;title&gt;] </p><p>If you are using it for the first time,<br>first execute the command “wispeeer init &lt;Blog directory&gt;” to initialize the blog.</p><span id="more"></span><h2 id="依赖-Require"><a href="#依赖-Require" class="headerlink" title="依赖 (Require)"></a>依赖 (Require)</h2><h3 id="编译依赖-Build-Require"><a href="#编译依赖-Build-Require" class="headerlink" title="编译依赖 (Build Require)"></a>编译依赖 (Build Require)</h3><blockquote><p>GNU Make 4.3 (make –version)</p><p>go version go1.16 (go version)</p></blockquote><h2 id="Build-amp-Run"><a href="#Build-amp-Run" class="headerlink" title="Build &amp; Run"></a>Build &amp; Run</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">make build</span><br><span class="line">.&#x2F;bin&#x2F;wispeeer_$(go env GOOS)_$(go env GOARCH) -h</span><br></pre></td></tr></table></figure><p>more build option</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">make <span class="built_in">help</span></span><br></pre></td></tr></table></figure><h2 id="Usage"><a href="#Usage" class="headerlink" title="Usage"></a>Usage</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wispeeer -h</span><br></pre></td></tr></table></figure><p><img src="screenshot.png" alt="screenshot"></p><h2 id="wispeeer-init"><a href="#wispeeer-init" class="headerlink" title="wispeeer init"></a>wispeeer init</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">wispeeer init <span class="variable">$&#123;USER&#125;</span>.github.io</span><br><span class="line"><span class="built_in">cd</span> <span class="variable">$&#123;USER&#125;</span>.github.io</span><br></pre></td></tr></table></figure><h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><ul><li><a href="https://github.com/ka1i/wispeeer">github.com/ka1i/wispeeer</a></li><li><a href="https://github.com/Wispeeer/wisper">github.com/Wispeeer/wisper</a></li></ul>]]></content>
     
