@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://www.mardan.wiki/links/index.html</loc>
+    
+    <lastmod>2021-03-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/about/index.html</loc>
+    
+    <lastmod>2021-03-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/index.html</loc>
+    
+    <lastmod>2021-03-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/index.html</loc>
+    
+    <lastmod>2021-03-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/repository/index.html</loc>
+    
+    <lastmod>2021-03-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2021/03/29/Wispeeer_User_Guide/</loc>
+    
+    <lastmod>2021-03-29</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://www.mardan.wiki/</loc>
+    <lastmod>2021-03-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Wispeeer/</loc>
+    <lastmod>2021-03-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/Wispeeer/</loc>
+    <lastmod>2021-03-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
