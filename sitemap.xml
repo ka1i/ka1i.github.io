@@ -2,59 +2,521 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.mardan.wiki/website/2021/03/29/Wispeeer_User_Guide/</loc>
+    <loc>https://www.mardan.wiki/website/2018/11/17/%E6%90%AD%E5%BB%BAGitHub-Page%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2018/11/17/%E6%90%AD%E5%BB%BAhexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2018/11/19/%E8%87%AA%E5%AE%9A%E4%B9%89hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98-v1/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2018/11/20/%E8%87%AA%E5%AE%9A%E4%B9%89hexo%E7%9A%84Next%E4%B8%BB%E9%A2%98-v2/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.mardan.wiki/about/index.html</loc>
     
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-31</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.mardan.wiki/categories/index.html</loc>
     
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-31</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.mardan.wiki/links/index.html</loc>
     
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-31</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.mardan.wiki/repository/index.html</loc>
     
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-31</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.mardan.wiki/tags/index.html</loc>
     
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/04/23/%E4%BF%AE%E6%94%B9Terminal%E9%BB%98%E8%AE%A4%E6%8F%90%E7%A4%BA%E6%A0%B7%E5%BC%8F/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/12/%E5%9C%A8VMware%E5%90%AF%E5%8A%A8MiniX3/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/03/02/%E5%9C%A8%E6%A0%91%E8%8E%93%E6%B4%BE%E4%B8%AD%E8%BF%90%E8%A1%8CFlutter/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/03/linux%E4%BF%AE%E6%94%B9%E6%97%B6%E5%8C%BA/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/05/13/selenium%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2020/07/28/ssh-X11-forwarding/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/1970/01/01/New-Features/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/1970/01/03/Rpi64%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97stage2/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2020/07/21/SSH-password-free-access-to-git/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2020/07/28/Use-PostgreSQL-log/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2021/03/29/Wispeeer_User_Guide/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/11/debootstrap%E6%9E%84%E5%BB%BALinux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/20/gradle%E8%87%AA%E5%8A%A8%E5%8C%96%E6%9E%84%E5%BB%BA%E9%A1%B9%E7%9B%AE/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/20/jdbc%E8%BF%9E%E6%8E%A5postgresql%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/1970/01/02/Rpi64%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97stage1/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2020/07/28/Linux%E7%BE%8E%E5%8C%96grub%E4%B8%BB%E9%A2%98/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2018/12/02/Linux-fstab/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/08/01/LinuxMint%E5%AE%89%E8%A3%85Mysql/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2020/07/28/LinuxMint%E5%AE%89%E8%A3%85conky/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2020/07/16/Build-Qemu-on-OSX/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/10/31/Build-tensorflow-C-v2-0/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/06/CSharp%E4%BD%BF%E7%94%A8MaterialDesignThemes/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/05/CSharp%E4%BD%BF%E7%94%A8Sqlite%E4%BF%9D%E5%AD%98%E8%AE%BE%E7%BD%AE/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/05/CSharp%E7%BB%9F%E8%AE%A1%E6%96%87%E4%BB%B6%E6%95%B0/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/05/CSharp%E7%BB%9F%E8%AE%A1%E6%96%87%E6%9C%AC%E5%AD%97%E6%95%B0/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/20/CTime%E6%A0%BC%E5%BC%8F%E5%8C%96Format%E5%8F%82%E8%80%83/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2020/07/28/Fix-Linux-LC-CTYPE-Problem/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/12/Github%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%BB%84%E7%BB%87%E7%AE%A1%E7%90%86%E9%A1%B9%E7%9B%AE/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/website/2019/07/21/IDEA%E9%85%8D%E7%BD%AESSM%E9%A1%B9%E7%9B%AE/</loc>
+    
+    <lastmod>2021-03-31</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://www.mardan.wiki/</loc>
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://www.mardan.wiki/tags/Qemu/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Tensorflow/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/C/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/MaterialDesign/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Sqlite/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/CTime/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Linux/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Github/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/java/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/linux/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/fstab/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Mysql/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Conky/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/grub/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/features/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/rpi64/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Git/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/ssh/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Postgresql/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mardan.wiki/tags/Wispeeer/</loc>
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/debootstrap/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/gradle/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/jdbc/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/timezone/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/selenium/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/python3/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/x11/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/terminal/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/MiniX/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/VMware/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/Flutter/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/RaspberryPi/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/hexo/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/next/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/tags/github/</loc>
+    <lastmod>2021-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -62,8 +524,148 @@
 
   
   <url>
+    <loc>https://www.mardan.wiki/categories/Qemu/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/Tensorflow/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/CSharp/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/C/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/CTime/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/Linux/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/git/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/java/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/linux/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/Database/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/features/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/Git/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.mardan.wiki/categories/Wispeeer/</loc>
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/Gradle/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/python3/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/ssh/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/MiniX/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/RaspberryPi/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/Github/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/hexo/</loc>
+    <lastmod>2021-03-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mardan.wiki/categories/ssh/x11/</loc>
+    <lastmod>2021-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
